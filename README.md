@@ -1,5 +1,7 @@
 # #Day_01 #Embedded_system #Introduction_of_Embedded_system
 
+![DALL·E 2024-11-29 00 50 23 - A visually engaging concept art of an embedded system introduction  The image features a futuristic circuit board integrated with various small device](https://github.com/user-attachments/assets/44008487-a41f-4342-9cb5-c8a4c435e090)
+
 ✳️What is embedded system? \
 An embedded system is a specialized computing system designed to perform specific tasks within a larger system. It is typically a combination of hardware and software, often embedded into devices to control their functions. 
 
@@ -40,6 +42,7 @@ An embedded system is a specialized computing system designed to perform specifi
 ▫️Limited upgradeability \
 ▫️Often requires specialized design and testing \
 ▫️May lack flexibility for additional functions 
+
 
 
 
