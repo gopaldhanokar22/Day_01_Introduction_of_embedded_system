@@ -3,14 +3,14 @@
 ✳️What is embedded system? \
 An embedded system is a specialized computing system designed to perform specific tasks within a larger system. It is typically a combination of hardware and software, often embedded into devices to control their functions. 
 
-✳️Key Characteristics:
+✳️Key Characteristics: \
 🔸Dedicated Functionality: Designed to perform a specific task or set of tasks. \
 🔸Real-time Operation: Often required to respond quickly to inputs and produce outputs within a defined time frame. \
 🔸Resource-Constrained: Operates with limited processing power, memory, and energy resources. \
 🔸Reliability: High levels of reliability and efficiency are crucial for their intended applications. \
 🔸Integration: Combines hardware and software tightly for optimized performance. 
 
-✳️Core Components: \
+✳️Core Components: 
 1. Hardware: \
 🔹Microcontroller: A small, integrated computer-on-a-chip containing a processor, memory, and I/O ports. \
 🔹Microprocessor: Used in more complex systems, requiring external components like memory. \
